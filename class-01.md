@@ -14,7 +14,9 @@
 ***Responsive web design is broken down into three main components, including flexible layouts, media queries, and flexible media.***
 
 > The formula is based around taking the target width of an element and dividing it by the width of it’s parent element. The result is the relative width of the target element.
+
 > target ÷ context = result
+
 * Flexible Grid : we can take all of the fixed units of length and turn them into relative units. 
 * Taking the flexible layout concept, and formula, and reapplying it to all parts of a grid will create a completely dynamic website, scaling to every viewport size
 * The flexible layout approach alone isn’t enough .Specifically, when the layout gets too small, or too large, text may become illegible and the layout may begin to break. 
