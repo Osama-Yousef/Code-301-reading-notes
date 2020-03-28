@@ -31,11 +31,14 @@
 * Flexible Media : The final, equally important aspect to responsive web design involves flexible media. As viewports begin to change size media doesn’t always follow suit. Images, videos, and other media types need to be scalable, changing their size as the size of the viewport changes.
 
 ## All About Floats (summary)
-* Float: is a CSS positioning property so that images may be set into the page such that text wraps around them as needed.
-* There are four valid values for the `float` property. Left and Right float elements those directions respectively. None (the default) ensures the element will not float and Inherit which will assume the float value from that elements parent element.
-***floats can be used to create entire web layouts.***
+> Float: is a CSS positioning property so that images may be set into the page such that text wraps around them as needed.
+
+***There are four valid values for the `float` property. Left and Right float elements those directions respectively. None (the default) ensures the element will not float and Inherit which will assume the float value from that elements parent element.***
+
+> floats can be used to create entire web layouts.
+
 * Float's sister property is `clear`. An element that has the clear property set on it will not move up adjacent to the float like the float desires, but will move itself down past the float.
-* `Clear` has four valid values as well. `Both` is most commonly used, which clears floats coming from either direction. `Left ` and `Right` can be used to only clear the float from one direction respectively.` None` is the default, which is typically unnecessary unless removing a clear value from a cascade. `Inherit` would be the fifth, but is strangely not supported in Internet Explorer. Clearing only the left or right float, while less commonly seen in the wild, definitely has its uses.
+* `Clear` ***has four valid values as well.*** `Both` is most commonly used, which clears floats coming from either direction. `Left ` and `Right` can be used to only clear the float from one direction respectively.` None` is the default, which is typically unnecessary unless removing a clear value from a cascade. `Inherit` would be the fifth, but is strangely not supported in Internet Explorer. Clearing only the left or right float, while less commonly seen in the wild, definitely has its uses.
 
 ## Don’t Overthink It Grids (summary)
 
