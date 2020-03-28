@@ -1,8 +1,10 @@
 # Read:01 Summary
 ## Shay Howe’s intro to RWD (Summary)
-* RWD : refers to Responsive Web Design
-* The growth of mobile Internet usage is also far out pacing that of general Internet usage growth.
+> RWD : refers to Responsive Web Design
+* The growth of mobile Internet usage is also far out pacing that of general Internet usage growth .
+
 ***With the growth in mobile Internet usage comes the question of how to build websites suitable for all users ??? .***
+
 * The industry response to this question has become responsive web design, also known as RWD.
 > Responsive web design is the practice of building a website suitable to work on every device and every screen size, no matter how large or small, mobile or desktop.
 * Responsive generally means to react quickly and positively to any change, while adaptive means to be easily modified for a new purpose or situation, such as change. 
