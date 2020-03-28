@@ -33,7 +33,7 @@
 ## All About Floats (summary)
 > Float: is a CSS positioning property so that images may be set into the page such that text wraps around them as needed.
 
-***There are four valid values for the `float` property.*** ` Left` and `Right` float elements those directions respectively.`None` (the default) ensures the element will not float and `Inherit` which will assume the float value from that elements parent element.***
+***There are four valid values for the `float` property.*** ` Left` and `Right` float elements those directions respectively.`None` (the default) ensures the element will not float and `Inherit` which will assume the float value from that elements parent element.
 
 > floats can be used to create entire web layouts.
 
