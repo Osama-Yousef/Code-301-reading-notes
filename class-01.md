@@ -42,8 +42,10 @@
 
 ## Don’t Overthink It Grids (summary)
 
-***The vast majority of websites out there use a grid.***
-***If a more complex layout presents itself, people often reach for a grid framework.***
+> The vast majority of websites out there use a grid.
+
+> If a more complex layout presents itself, people often reach for a grid framework.
+
 * A block level element is as wide as the parent it's inside `(width: auto;)`.
 * The hardest part about grids is `gutters`. So far we've made our grid flexible by using percentages for widths. We could make the math all complicated and use percentages for gutters as well.
 
