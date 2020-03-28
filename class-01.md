@@ -58,8 +58,11 @@
 
 ## SMACSS Official Documentation (summary)
 > SMACSS refers to scalable and modular architecture for css
-***SMACSS is becoming one of the most useful contributions to front-end discussions in years***
-* It is a flexible guide for developing sites 
+
+> SMACSS is becoming one of the most useful contributions to front-end discussions in years
+
+***It is a flexible guide for developing sites*** 
+
 * SMACSS is more style guide than rigid framework. There is no library within here for you to download or install. There is no git repository for you to clone. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
 
 
