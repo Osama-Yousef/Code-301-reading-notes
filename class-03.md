@@ -1,7 +1,8 @@
 # Read: 03 Summary
 ## Templating with Mustache
 
-* Javascript templating is a fast and efficient technique to render client-side view templates with Javascript by using a JSON data source
+> Javascript templating is a fast and efficient technique to render client-side view templates with Javascript by using a JSON data source
+
 * The template is HTML markup, with added templating tags that will either insert variables or run programming logic.
 * The template engine then replaces variables and instances declared in a template file with actual values at runtime, and convert the template into an HTML file sent to the client.
 
