@@ -8,8 +8,10 @@
 
 > CSS Grid Layout is the most powerful layout system available in CSS. It is a 2-dimensional system, meaning it can handle both columns and rows, unlike flexbox which is largely a 1-dimensional system. You work with Grid Layout by applying CSS rules both to a parent element (which becomes the Grid Container) and to that […]ز
 
-* Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites
+* Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites.
+
 ***To get started you have to define a container element as a grid with` display: grid`***
+
 * set the column and row sizes with `grid-template-columns `and `grid-template-rows`
 * then place its child elements into the grid with `grid-column` and `grid-row`
 * The element on which `display: grid` is applied. It’s the direct parent of all the grid items
