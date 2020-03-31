@@ -8,7 +8,7 @@ Read #    |    Read topic / link
 Read 1    | ***RWD / Float / Grids / SMACSS  [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-01 )***
 Read 2    | ***jQuery / Events / The DOM [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-02 )***
 Read 3    | ***Templating with Mustache / Flexbox [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-03 )***
-Read 4    |    
+Read 4    | ***RegExr / CSS Grid / Regex [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-04 )***
 Read 5    |    
 Read 6    |     
 Read 7    |     
