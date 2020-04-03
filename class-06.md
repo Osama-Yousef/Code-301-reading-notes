@@ -7,7 +7,9 @@
 * ` The V8 engine` is the open-source JavaScript engine that runs in Google Chrome
 * It was designed with performance in mind and is responsible for compiling JavaScript directly to native machine code that your computer can execute.
 * the V8 engine is enhanced with various features, such as a file system API, an HTTP library, and a number of operating system–related utility methods.
+
 ***Node.js is a program we can use to execute JavaScript on our computers. In other words, it’s a JavaScript runtime.***
+
 * ` npm` : is a (node package manager) that comes bundled with Node.
 * `nvm` : (node version manager) a program that allows you to install multiple versions of Node and switch between them at will.
 * it negates potential permission issues when using Node with npm and lets you set a Node version on a per-project basis.
@@ -24,20 +26,24 @@
 * Node uses the `libuv library` to implement this asynchronous (that is, non-blocking) behavior.
 * `Node’s execution model` causes the server very little overhead, and consequently it’s capable of handling a large number of simultaneous connections.
 * `Node.js` even has a built-in module to help you implement a cloning strategy on a single server.
+
 ***Node is important to handle errors correctly***
+
 
 ### What Kind of Apps Is Node.js Suited To?
 * Node is particularly suited to building applications that require some form of real-time interaction or collaboration — for example, chat sites, or apps such as CodeShare, where you can watch a document being edited live by someone else. It’s also a good fit for building APIs where you’re handling lots of requests that are I/O driven (such as those needing to perform operations on a database), or for sites involving data streaming, as Node makes it possible to process files while they’re still being uploaded.
 
 -------------------------------------------------------------------------------------------------------
 > Express having established itself as the front runner.
+
 ***Node’s big pluses is that it speaks JSON***
+
 > **JSON** is probably the most important data exchange format on the Web, and the lingua franca for interacting with object databases (such as MongoDB). JSON is ideally suited for consumption by a JavaScript program, meaning that when you’re working with Node, data can flow neatly between layers without the need for reformatting. You can have one syntax from browser to server to database.
 
 * `Node.js` can be used as a scripting language to automate repetitive or error prone tasks on your PC.
 * `Node.js` can be used to write your own command line tool
 * `Node.js` can be used to build cross-platform desktop apps and even to create your own robots
-* 
+
 
 
 
