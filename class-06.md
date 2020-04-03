@@ -34,8 +34,10 @@
 ***Node’s big pluses is that it speaks JSON***
 > **JSON** is probably the most important data exchange format on the Web, and the lingua franca for interacting with object databases (such as MongoDB). JSON is ideally suited for consumption by a JavaScript program, meaning that when you’re working with Node, data can flow neatly between layers without the need for reformatting. You can have one syntax from browser to server to database.
 
+* `Node.js` can be used as a scripting language to automate repetitive or error prone tasks on your PC.
+* `Node.js` can be used to write your own command line tool
+* `Node.js` can be used to build cross-platform desktop apps and even to create your own robots
 * 
-
 
 
 
