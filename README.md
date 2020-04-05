@@ -11,6 +11,7 @@ Read 3    | ***Templating with Mustache / Flexbox [go to]( https://osama-yousef.
 Read 4    | ***RegExr / CSS Grid / Regex [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-04 )***
 Read 5    | ***Heroku Deployment / Node js [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-05 )***
 Read 6    | ***Node / Express / APIs [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-06 )***
+Read 6    | ***SuperAgent / article about teams [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-07 )***
 Read 7    |     
 Read 8    |     
 Read 9    |    
