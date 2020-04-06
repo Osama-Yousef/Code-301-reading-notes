@@ -12,7 +12,7 @@ Read 4    | ***RegExr / CSS Grid / Regex [go to]( https://osama-yousef.github.io
 Read 5    | ***Heroku Deployment / Node js [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-05 )***
 Read 6    | ***Node / Express / APIs [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-06 )***
 Read 7    | ***SuperAgent / article about teams [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-07 )***  
-Read 8    |     
+Read 8    | ***SQL [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-08 )***   
 Read 9    |    
 Read 10   |    
 Read 11   |     
