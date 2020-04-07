@@ -10,11 +10,11 @@
   * It uses a global object that was not passed as a parameter to the function
   * It reads external files.
   * Relies on a random number generator.
-
+-----------------------------------------------------------------------------
 * When data is ***immutable***, its state cannot change after it’s created. If you want to change an immutable object, you can’t. Instead, you create a new object with the new value.
-
+---------------------------------------------------------------------------------
 * `Referential transparency` : if a function consistently yields the same result for the same input, it is referentially transparent. 'pure functions + immutable data = referential transparency'.
-
+---------------------------------------------------------------------------------
 ### Functions as first-class entities can:
 
   * refer to it from constants and variables
