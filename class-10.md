@@ -10,7 +10,7 @@
 
 ***In `Asynchronous` JavaScript, we have a callback function, an event loop, and a task queue. The callback function is acted upon by the call stack during execution after the call back function has been pushed to the stack by the event loop.***
 
-***Manage function invocation (call): The call stack maintains a record of the position of each stack frame.
+***Manage function invocation (call): The call stack maintains a record of the position of each stack frame.***
 
 ###  What causes a stack overflow?
 
