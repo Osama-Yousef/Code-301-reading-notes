@@ -16,7 +16,7 @@ Read 8    | ***SQL [go to]( https://osama-yousef.github.io/Code-301-reading-note
 Read 9    | ***Functional programming / Refactoring [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-09 )***
 Read 10   | ***JavaScript call stack / Error messages [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-10 )***
 Read 11   | ***EJS [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-11 )***
-Read 12   |     
+Read 12   | ***EJS Partials [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-12 )***
 Read 13   |     
 Read 14   |    
 Read 15   |    
