@@ -12,10 +12,14 @@ are (`action` and `method`).
   * `body` : contains information necessary for the server to process the specific request.
 * client (usually a web browser) : sends a request to a server (most of the time a web server like `Apache`, `Nginx`, `IIS`, `Tomcat`, etc.), 
 using the HTTP protocol.Then the  server answers the request using the same protocol.
+
 ***GET method : used by the browser to ask the server to send back a given resource.then the browser sends an empty body.***
+
 ***POST method : browser using this method to talk to the server when asking for a response that takes into account the data provided
-in the body of the HTTP request.
+in the body of the HTTP request.***
+
 ***the server receives a string that will be parsed in order to get the data as a list of key/value pairs.***
+
 * high quality frameworks that make handling forms easier, such as:
   * Django for Python
   * Express for Node.js.
