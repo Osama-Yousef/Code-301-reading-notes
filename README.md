@@ -19,7 +19,7 @@ Read 11   | ***EJS [go to]( https://osama-yousef.github.io/Code-301-reading-note
 Read 12   | ***EJS Partials [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-12 )***
 Read 13   | ***Sending from data [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-13 )***  
 Read 14   | ***DB normalization [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-14 )***  
-Read 15   |    
+Read 15   | ***DIVERSITY AND INCLUSION [go to]( https://osama-yousef.github.io/Code-301-reading-notes/class-15 )*** 
 Read 16   |     
 Read 17   |     
 Read 18   |     
