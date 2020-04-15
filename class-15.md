@@ -1,4 +1,4 @@
-#Read: 15 Summary
+# Read: 15 Summary
 ## DIVERSITY AND INCLUSION
 ### Silicon Valley’s gender gap is the result of computer-game marketing 20 years ago
 
